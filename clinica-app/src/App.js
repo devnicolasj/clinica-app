@@ -12,7 +12,7 @@ function App() {
         }}
       >
         <Link to="/">Home</Link> |{" "}
-        <Link to="/login">Logi</Link> |{" "}
+        <Link to="/login">Loginn</Link> |{" "}
         <Link to="/detalle">Detalle</Link> |{" "}
         <Link to="/checkout">Checkout</Link>
       </nav>
