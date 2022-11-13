@@ -11,10 +11,10 @@ function App() {
           paddingBottom: "1rem",
         }}
       >
-        <Link to="/">Home</Link> |{" "}
+        <Link to="/">Hom</Link> |{" "}
         <Link to="/login">Log</Link> |{" "}
-        <Link to="/detalle">Detalle</Link> |{" "}
-        <Link to="/checkout">Checkout</Link>
+        <Link to="/detalle">Deta</Link> |{" "}
+        <Link to="/checkout">Check</Link>
       </nav>
     </div>
   );
