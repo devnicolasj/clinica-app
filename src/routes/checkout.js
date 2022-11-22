@@ -1,7 +1,5 @@
 export default function Checkout() {
     return (
-        <main style={{ padding: "1rem 0" }}>
-            <h2>Checkout</h2>
-        </main>
+        window.location.href = "https://d33u8wr5xctra6.cloudfront.net/Checkout/index.html"
     );
 }
