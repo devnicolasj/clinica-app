@@ -16,7 +16,7 @@ const App = () => {
     
     <Wrapper>
       <TitleWrapper>
-        <div align="center"><h1>Marketplace Clínica Imperial</h1>
+        <div align="center"><h1>Marketplace Clínica Imperial :D</h1>
           <p>Para más información presione alguno de los siguientes apartados</p>
           <div>
       <nav
