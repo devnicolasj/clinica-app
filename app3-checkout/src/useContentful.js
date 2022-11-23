@@ -7,10 +7,10 @@ const useContentful = () => {
     host: "preview.contentful.com"
   });
 
-  const getDetalle = async () => {
+  const getCheckout = async () => {
     try {
       const entries = await client.getEntries({
-        content_type: "detalle",
+        content_type: "checkout",
         select: "fields"
       });
 
@@ -24,11 +24,11 @@ const useContentful = () => {
 
       return sanitizedEntries;
     } catch (error) {
-      console.log(`Error fetching detalles ${error}`);
+      console.log(`Error fetching checkout ${error}`);
     }
   };
 
-  return { getDetalle };
+  return { getCheckout };
 };
 
 export default useContentful;
