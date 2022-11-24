@@ -16,8 +16,8 @@ export default ServicioClinica;
 const Wrapper = styled.div`
   display: grid;
   align-items: flex-end;
-  width: 340px;
-  height: 200px;
+  width: 500px;
+  height: 800px;
   border-radius: 15px;
   box-shadow: 0px 20px 40px rgba(52, 53, 99, 0.2),
     0px 1px 3px rgba(0, 0, 0, 0.05);
