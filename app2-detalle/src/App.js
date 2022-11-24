@@ -46,8 +46,9 @@ const App = () => {
 export default App;
 
 const Wrapper = styled.div`
-  font-family: "Roboto";
+  font-family: "Calibri";
   margin: 40px;
+  background: url("https://img.freepik.com/fotos-premium/interior-borroso-hospital-o-clinica-personas_1484-2139.jpg?w=2000");
 
   display: grid;
   row-gap: 40px;

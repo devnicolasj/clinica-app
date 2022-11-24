@@ -23,7 +23,7 @@ const Wrapper = styled.div`
     0px 1px 3px rgba(0, 0, 0, 0.05);
   background: ${(props) =>
     props.background && `url(${props.background}) center no-repeat`};
-  background-size: auto 120%;
+  background-size: auto;
 `;
 
 const TextContainer = styled.div`
