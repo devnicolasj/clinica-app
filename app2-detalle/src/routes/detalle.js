@@ -1,5 +1,5 @@
 export default function Detalle() {
     return (
-        window.location.href = "https://d33u8wr5xctra6.cloudfront.net/Detalles/index.html"
+        window.location.href = "https://d3n9onu5xpjuci.cloudfront.net"
     );
 }
